@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create_sweet_industry:dried_honeycomb"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:honey"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:honeycomb"
+    }
+  ]
+}

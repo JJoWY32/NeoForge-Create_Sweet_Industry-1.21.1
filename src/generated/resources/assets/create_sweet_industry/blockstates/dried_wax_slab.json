@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "create_sweet_industry:block/dried_wax_slab"
+    },
+    "type=double": {
+      "model": "create_sweet_industry:block/dried_wax_block"
+    },
+    "type=top": {
+      "model": "create_sweet_industry:block/dried_wax_slab_top"
+    }
+  }
+}

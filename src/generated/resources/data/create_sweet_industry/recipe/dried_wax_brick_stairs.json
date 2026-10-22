@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dried_wax_blocks",
+  "key": {
+    "#": {
+      "item": "create_sweet_industry:dried_wax_bricks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "create_sweet_industry:dried_wax_brick_stairs"
+  }
+}

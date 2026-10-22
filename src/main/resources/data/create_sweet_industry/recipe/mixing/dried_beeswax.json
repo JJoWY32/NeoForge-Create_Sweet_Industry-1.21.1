@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_sweet_industry:dried_honeycomb"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_sweet_industry:dried_beeswax"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "values": [
+    "create_sweet_industry:wax_block",
+    "create_sweet_industry:polished_wax",
+    "create_sweet_industry:wax_bricks",
+    "create_sweet_industry:wax_pillar",
+    "create_sweet_industry:dried_wax_block",
+    "create_sweet_industry:polished_dried_wax",
+    "create_sweet_industry:dried_wax_bricks",
+    "create_sweet_industry:dried_wax_pillar",
+    "create_sweet_industry:wax_stairs",
+    "create_sweet_industry:polished_wax_stairs",
+    "create_sweet_industry:wax_brick_stairs",
+    "create_sweet_industry:dried_wax_stairs",
+    "create_sweet_industry:polished_dried_wax_stairs",
+    "create_sweet_industry:dried_wax_brick_stairs",
+    "create_sweet_industry:wax_slab",
+    "create_sweet_industry:polished_wax_slab",
+    "create_sweet_industry:wax_brick_slab",
+    "create_sweet_industry:dried_wax_slab",
+    "create_sweet_industry:polished_dried_wax_slab",
+    "create_sweet_industry:dried_wax_brick_slab",
+    "create_sweet_industry:polished_wax_button",
+    "create_sweet_industry:polished_dried_wax_button",
+    "create_sweet_industry:wax_wall",
+    "create_sweet_industry:polished_wax_wall",
+    "create_sweet_industry:wax_brick_wall",
+    "create_sweet_industry:dried_wax_wall",
+    "create_sweet_industry:polished_dried_wax_wall",
+    "create_sweet_industry:dried_wax_brick_wall"
+  ]
+}

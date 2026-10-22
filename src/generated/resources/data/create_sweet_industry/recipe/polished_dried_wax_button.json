@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "dried_wax_blocks",
+  "ingredients": [
+    {
+      "item": "create_sweet_industry:polished_dried_wax"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_sweet_industry:polished_dried_wax_button"
+  }
+}

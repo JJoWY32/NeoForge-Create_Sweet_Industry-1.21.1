@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_sweet_industry:dried_honeycomb"
+    },
+    {
+      "amount": 250,
+      "id": "create:honey"
+    }
+  ]
+}

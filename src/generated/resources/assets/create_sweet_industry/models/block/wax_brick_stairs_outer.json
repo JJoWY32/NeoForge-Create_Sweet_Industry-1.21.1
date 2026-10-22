@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "create_sweet_industry:block/wax_bricks",
+    "side": "create_sweet_industry:block/wax_bricks",
+    "top": "create_sweet_industry:block/wax_bricks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create_sweet_industry:wax_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "create_sweet_industry:wax_pillar"
+  }
+}

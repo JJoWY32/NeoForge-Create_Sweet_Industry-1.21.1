@@ -1,0 +1,45 @@
+{
+  "item.create_sweet_industry.beeswax": "Beeswax",
+  "item.create_sweet_industry.dried_beeswax": "Dried Beeswax",
+  "item.create_sweet_industry.dried_honeycomb": "Dried Honeycomb",
+
+  "item.create_sweet_industry.bar_of_honey": "Bar of Honey",
+  "item.create_sweet_industry.royal_jelly_bottle": "Royal Jelly Bottle",
+
+  "block.create_sweet_industry.dried_honeycomb_block": "Dried Honeycomb Block",
+
+  "block.create_sweet_industry.wax_block": "Block of Wax",
+  "block.create_sweet_industry.dried_wax_block": "Block of Dried Wax",
+  "block.create_sweet_industry.polished_wax": "Polished Wax",
+  "block.create_sweet_industry.polished_dried_wax": "Polished Dried Wax",
+  "block.create_sweet_industry.wax_bricks": "Wax Bricks",
+  "block.create_sweet_industry.dried_wax_bricks": "Dried Wax Bricks",
+  "block.create_sweet_industry.wax_pillar": "Wax Pillar",
+
+  "block.create_sweet_industry.wax_stairs": "Wax Stairs",
+  "block.create_sweet_industry.dried_wax_stairs": "Dried Wax Stairs",
+  "block.create_sweet_industry.polished_wax_stairs": "Polished Wax Stairs",
+  "block.create_sweet_industry.polished_dried_wax_stairs": "Polished Dried Wax Stairs",
+  "block.create_sweet_industry.wax_brick_stairs": "Wax Brick Stairs",
+  "block.create_sweet_industry.dried_wax_brick_stairs": "Dried Wax Brick Stairs",
+  "block.create_sweet_industry.dried_wax_pillar": "Dried Wax Pillar",
+
+  "block.create_sweet_industry.wax_slab": "Wax Slab",
+  "block.create_sweet_industry.dried_wax_slab": "Dried Wax Slab",
+  "block.create_sweet_industry.polished_wax_slab": "Polished Wax Slab",
+  "block.create_sweet_industry.polished_dried_wax_slab": "Polished Dried Wax Slab",
+  "block.create_sweet_industry.wax_brick_slab": "Wax Brick Slab",
+  "block.create_sweet_industry.dried_wax_brick_slab": "Dried Wax Brick Slab",
+
+  "block.create_sweet_industry.wax_wall": "Wax Wall",
+  "block.create_sweet_industry.dried_wax_wall": "Dried Wax Wall",
+  "block.create_sweet_industry.polished_wax_wall": "Polished Wax Wall",
+  "block.create_sweet_industry.polished_dried_wax_wall": "Polished Dried Wax Wall",
+  "block.create_sweet_industry.wax_brick_wall": "Wax Brick Wall",
+  "block.create_sweet_industry.dried_wax_brick_wall": "Dried Wax Brick Wall",
+
+  "block.create_sweet_industry.polished_wax_button": "Polished Wax Button",
+  "block.create_sweet_industry.polished_dried_wax_button": "Polished Dried Wax Button",
+
+  "creativetab.create_sweet_industry.create_sweet_industry_tab": "Create Sweet Industry"
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_wax": {
+      "conditions": {
+        "items": [
+          {
+            "items": "create_sweet_industry:polished_wax"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "create_sweet_industry:wax_brick_stairs_from_polished_wax_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_wax"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "create_sweet_industry:wax_brick_stairs_from_polished_wax_stonecutting"
+    ]
+  }
+}

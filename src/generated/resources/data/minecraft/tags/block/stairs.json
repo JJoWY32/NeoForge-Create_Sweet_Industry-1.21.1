@@ -1,0 +1,10 @@
+{
+  "values": [
+    "create_sweet_industry:wax_stairs",
+    "create_sweet_industry:polished_wax_stairs",
+    "create_sweet_industry:wax_brick_stairs",
+    "create_sweet_industry:dried_wax_stairs",
+    "create_sweet_industry:polished_dried_wax_stairs",
+    "create_sweet_industry:dried_wax_brick_stairs"
+  ]
+}

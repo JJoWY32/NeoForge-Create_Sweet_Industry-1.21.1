@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "create_sweet_industry:block/dried_wax_block",
+    "side": "create_sweet_industry:block/dried_wax_block",
+    "top": "create_sweet_industry:block/dried_wax_block"
+  }
+}

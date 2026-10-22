@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "create_sweet_industry:block/wax_pillar_end",
+    "side": "create_sweet_industry:block/wax_pillar_side"
+  }
+}

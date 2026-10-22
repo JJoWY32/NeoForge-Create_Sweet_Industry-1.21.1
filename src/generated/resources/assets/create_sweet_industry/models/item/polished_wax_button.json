@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "create_sweet_industry:block/polished_wax"
+  }
+}

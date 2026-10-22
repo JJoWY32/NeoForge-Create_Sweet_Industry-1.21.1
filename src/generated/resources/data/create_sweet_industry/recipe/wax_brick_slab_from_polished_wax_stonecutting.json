@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "create_sweet_industry:polished_wax"
+  },
+  "result": {
+    "count": 2,
+    "id": "create_sweet_industry:wax_brick_slab"
+  }
+}
